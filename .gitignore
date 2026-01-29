@@ -1,0 +1,14 @@
+# Secrets
+*.env
+.env*
+*secret*
+*key*
+*password*
+
+# Logs & outputs
+*.log
+*.tmp
+
+# OS
+.DS_Store
+Thumbs.db
