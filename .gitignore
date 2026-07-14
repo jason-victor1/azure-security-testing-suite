@@ -12,3 +12,14 @@
 # OS
 .DS_Store
 Thumbs.db
+
+# Private course/source material - do not commit
+course-source-archive/
+raw-course-material/
+raw-transcripts/
+voice-recordings/
+private-course-source/
+*.m4a
+*.mp3
+*.wav
+*.aac
