@@ -10,7 +10,7 @@
 | Azure deployment status | Paused |
 | Validation evidence | Not captured |
 | Resume and interview claims | Restricted until evidence exists |
-| Last updated | 2026-07-13 |
+| Last updated | 2026-07-14 |
 
 > This document defines how the project may be described publicly at each lifecycle stage. It does not independently prove implementation, validation, control effectiveness, compromise, compliance, or enterprise operational maturity.
 
@@ -47,12 +47,12 @@ When a public claim conflicts with the threat model, project status, or availabl
 |---|---|
 | System boundary and threat model | Approved design |
 | Architecture | Approved design |
-| Deployment runbook | Pre-revision content; modernization pending |
-| Cost controls | Pre-revision content; modernization pending |
-| Triage runbook | Empty pre-revision skeleton |
-| Teardown runbook | Pre-revision content; modernization pending |
-| KQL catalog | Empty pre-revision skeleton |
-| Analytics-rule catalog | Empty pre-revision skeleton |
+| Deployment runbook | Reviewed design-stage runbook; not executed |
+| Cost controls | Reviewed design-stage checklist; no cost execution evidence |
+| Triage runbook | Reviewed design-stage runbook; not executed |
+| Teardown runbook | Reviewed design-stage runbook; not executed |
+| KQL catalog | Reviewed versioned query catalog; unexecuted |
+| Analytics-rule catalog | Reviewed `AR-001` design; disabled, undeployed, and unverified |
 | Evidence governance | Validated documentation baseline; no execution evidence captured |
 | Azure v2 resources | Not deployed |
 | AMA/DCR collection | Not implemented for v2 |

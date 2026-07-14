@@ -10,7 +10,7 @@
 | Azure deployment status | Paused |
 | Public exposure authorization | Not granted |
 | Authoritative risk source | [`threat-model.md`](threat-model.md) |
-| Last updated | 2026-07-13 |
+| Last updated | 2026-07-14 |
 
 > This roadmap translates private historical course checklists into an original, current, safety-bounded project plan. The private source material remains outside Git. Checklist completion does not prove control effectiveness, successful detection, compromise, compliance, or project completion.
 
@@ -103,7 +103,7 @@ A task is not complete merely because a portal screen, command, or file exists.
 | Commit 1 architecture and scope documents | Complete |
 | Commit 2 evidence-governance documents | Validated |
 | Commit 3 operational runbooks | Validated |
-| Commit 4 KQL and analytics-rule catalog | Not started |
+| Commit 4 KQL and analytics-rule catalog | Validated |
 | Commit 5 reporting and portfolio templates | Not started |
 | Cross-document integration review | Not started |
 | Predeployment authorization gate | Blocked |
