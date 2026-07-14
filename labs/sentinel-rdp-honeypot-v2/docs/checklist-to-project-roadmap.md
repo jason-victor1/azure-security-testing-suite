@@ -104,8 +104,8 @@ A task is not complete merely because a portal screen, command, or file exists.
 | Commit 2 evidence-governance documents | Validated |
 | Commit 3 operational runbooks | Validated |
 | Commit 4 KQL and analytics-rule catalog | Validated |
-| Commit 5 reporting and portfolio templates | Not started |
-| Cross-document integration review | Not started |
+| Commit 5 reporting and portfolio templates | Validated |
+| Cross-document integration review | Validated |
 | Predeployment authorization gate | Blocked |
 | Azure v2 deployment | Blocked |
 | Public TCP/3389 observation | Blocked |
