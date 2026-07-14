@@ -53,7 +53,7 @@ When a public claim conflicts with the threat model, project status, or availabl
 | Teardown runbook | Pre-revision content; modernization pending |
 | KQL catalog | Empty pre-revision skeleton |
 | Analytics-rule catalog | Empty pre-revision skeleton |
-| Evidence governance | Empty pre-revision skeleton |
+| Evidence governance | Validated documentation baseline; no execution evidence captured |
 | Azure v2 resources | Not deployed |
 | AMA/DCR collection | Not implemented for v2 |
 | `SecurityEvent` schema | Not validated |
