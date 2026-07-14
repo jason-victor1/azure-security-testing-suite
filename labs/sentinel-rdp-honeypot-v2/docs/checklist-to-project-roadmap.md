@@ -102,7 +102,7 @@ A task is not complete merely because a portal screen, command, or file exists.
 | Private-source exclusion check | Complete |
 | Commit 1 architecture and scope documents | Complete |
 | Commit 2 evidence-governance documents | Validated |
-| Commit 3 operational runbooks | Not started |
+| Commit 3 operational runbooks | Validated |
 | Commit 4 KQL and analytics-rule catalog | Not started |
 | Commit 5 reporting and portfolio templates | Not started |
 | Cross-document integration review | Not started |
